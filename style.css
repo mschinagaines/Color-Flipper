@@ -1,0 +1,58 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+main {
+    display: block;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    width:max-content;
+    font-size: 13px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    display: inline;
+}
+
+button {
+    background-color: black;
+    color: rgba(255,255,255,.9);
+    padding: 10px;
+    border-radius: 13px;
+}
+
+h2 {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: max-content;
+    text-align: center;
+}
+
+h4 {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.nav-center {
+    text-align: center;
+}
+
+.nav-link {
+    display: inline;
+    text-align: center;
+}
